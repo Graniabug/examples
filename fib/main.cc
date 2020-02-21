@@ -6,6 +6,11 @@
 
 #include "fib.h"
 
+/**
+ * @brief Runs program to print fibonacci sequence
+ * @param None
+ * @return Exit sucess or failure
+ */
 int main() {
     int n;
     std::cout << "Please enter n: ";
